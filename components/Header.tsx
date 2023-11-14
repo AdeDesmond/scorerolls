@@ -6,7 +6,7 @@ export default function Header() {
       <div>
         <p>search element</p>
       </div>
-      <div className="border border-slate-900 rounded-lg">
+      <div className="border border-slate-900 rounded-lg px-4 py-2">
         <h3>profile page</h3>
       </div>
     </header>
